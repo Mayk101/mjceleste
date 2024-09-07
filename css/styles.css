@@ -87,6 +87,7 @@ footer a:hover {
 }
 
 
+
 /* HOME
 ------------------------------------*/
 .home {
@@ -166,7 +167,8 @@ footer a:hover {
 }
 .project-item img {
     width: 300px;
-    
+    /* updated Sep 7 changing the default of the images    */
+    height: 200px;
 }
 
 @media screen and (min-width:860px){
